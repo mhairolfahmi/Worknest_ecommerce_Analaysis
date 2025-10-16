@@ -59,7 +59,7 @@ This strong performance was a result of excellent sales contributions from both 
   * Strengthen sales coverage in APAC and reinforce the EU growth with regional specific sales targets.
     
  * Content Strategy for Off-Peak Sales Period
-  * Use the low demand period in Jan  to May to produce engaging media content that highlights our company and its products on social media to build audience interest ahead of our peak sales month.
+   * Use the low demand period in Jan  to May to produce engaging media content that highlights our company and its products on social media to build audience interest ahead of our peak sales month.
     
 
 
