@@ -14,7 +14,7 @@ The goal is to study key performance metrics across this two core domain:
 
 Worknest sales dataset consists of about 51,267 records across 2021 to 2024 which have structured as below
 
-![Image](https://github.com/user-attachments/assets/6e94568b-cb0d-41f7-802d-da0863a41db1)
+<img width="223" height="537" alt="Image" src="https://github.com/user-attachments/assets/9afd556f-9b85-490f-982b-a50454722bce" />
 
 ## Executive Summary
 Worknest demonstrated an outstanding sales performance in 2024 with a total yearly sales of $4.30 millions. This represents  a 26% increase  compared to the previous year. This performance was primarily  fueled by a rise in order volume by about 27% despite the minor decrease in average order value of 0.53% at $504.  
