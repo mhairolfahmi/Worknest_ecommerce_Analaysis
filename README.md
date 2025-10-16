@@ -19,6 +19,8 @@ Worknest demonstrated an outstanding sales performance in 2024 with a total year
 
 This strong performance was a result of excellent sales contributions from both the home market and key international regions in Asia Pacific(APAC) and Europe(EU), across all three of our core product categories: furniture, office supplies, and technology products.
 
+![Image](https://github.com/user-attachments/assets/d3555743-62bc-4790-8c95-39009ab9b562)
+
 ## Insight Deep Dive
 
 ### Overall Sales trends
