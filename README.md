@@ -1,6 +1,4 @@
 # Worknest  Ecommerce Analaysis (2021-2024)
-<img width="1315" height="765" alt="Image" src="https://github.com/user-attachments/assets/5717ce4d-5908-4445-9a15-c9b76b71a7ae" />
-
 ## Project Background
 Worknest is an e-commerce company specializing in furniture, office supplies, and technology products, serving both individual consumers and corporate clients.
 
