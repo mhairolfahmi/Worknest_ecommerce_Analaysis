@@ -59,8 +59,11 @@ This strong performance was a result of excellent sales contributions from both 
 
 ## Recomendation
 
+
+
 * Focusing on high-performing products.
-  * Highlight top sub-category and top products especially Canon imageCLASS 2200 Advanced Copier on our homepage websites and sales platform.
+  * Highlight top sub-category and top products on our homepage websites and sales platform.
+  * Focusing in the marketing of Canon imageCLASS 2200 Advanced Copier to get wider exposure especially in APAC and EU markets.
   * Under the office supplies category, bundle low contributors products (envelopes, fasteners and labels) with top contributors(appliances, storage) to improve our average order value
 
 * Optimize regional sales funnels
